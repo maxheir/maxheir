@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com_linotype_FontExplorerX_PATH</key>
+	<string>/Users/maxfielfdbatt/Downloads/Chap Semibold.otf</string>
+	<key>com_linotype_FontExplorerX_comment</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_copyright</key>
+	<string>Copyright © 2015 Schick Toikka. All rights reserved. Chap is a trademark of Schick Toikka. Unauthorised copying or modification of any of its data is illegal.</string>
+	<key>com_linotype_FontExplorerX_description</key>
+	<string>Copyright (c) 2015 by Schick Toikka. All rights reserved.</string>
+	<key>com_linotype_FontExplorerX_designer</key>
+	<string>Schick Toikka</string>
+	<key>com_linotype_FontExplorerX_designerURL</key>
+	<string>www.schick-toikka.com</string>
+	<key>com_linotype_FontExplorerX_embeddingRights</key>
+	<string>Preview &amp; Print Embedding Allowed</string>
+	<key>com_linotype_FontExplorerX_familyName</key>
+	<array>
+		<string>Chap</string>
+	</array>
+	<key>com_linotype_FontExplorerX_fileName</key>
+	<array>
+		<string>Chap Semibold.otf</string>
+	</array>
+	<key>com_linotype_FontExplorerX_format</key>
+	<string>OpenType (PostScript Flavored)</string>
+	<key>com_linotype_FontExplorerX_fullName</key>
+	<array>
+		<string>Chap Semibold</string>
+	</array>
+	<key>com_linotype_FontExplorerX_isBroken</key>
+	<false/>
+	<key>com_linotype_FontExplorerX_isInSystemFolder</key>
+	<false/>
+	<key>com_linotype_FontExplorerX_isSystemFont</key>
+	<false/>
+	<key>com_linotype_FontExplorerX_license</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_licenseURL</key>
+	<string>http://www.schick-toikka.com/legal/</string>
+	<key>com_linotype_FontExplorerX_manufacturer</key>
+	<string>Schick Toikka</string>
+	<key>com_linotype_FontExplorerX_psName</key>
+	<array>
+		<string>Chap-Semibold</string>
+	</array>
+	<key>com_linotype_FontExplorerX_style</key>
+	<array>
+		<string>Semibold</string>
+	</array>
+	<key>com_linotype_FontExplorerX_trademark</key>
+	<string>Chap Semibold is a trademark of Schick Toikka.</string>
+	<key>com_linotype_FontExplorerX_uniqueName</key>
+	<array>
+		<string>1.000;SCTO;Chap-Semibold</string>
+	</array>
+	<key>com_linotype_FontExplorerX_vendorName</key>
+	<string>Schick Toikka</string>
+	<key>com_linotype_FontExplorerX_vendorURL</key>
+	<string>www.schick-toikka.com</string>
+	<key>com_linotype_FontExplorerX_version</key>
+	<string>Version 1.000</string>
+	<key>kMDItemDisplayName</key>
+	<string>Chap Semibold</string>
+	<key>kMDItemTitle</key>
+	<string>Chap Semibold</string>
+</dict>
+</plist>
